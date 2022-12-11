@@ -1102,6 +1102,5 @@ end
 
 while true do
 if gg.isVisible(true) then
-gg.setVisible(false)
-then SkinChanger() end
+gg.setVisible(false) SkinChanger() end
 end end
