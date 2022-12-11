@@ -10,7 +10,7 @@ end
 
 gg.setVisible(true)
 
-function SkinChanger()
+function LFKWKFKAKOAPAPAPAPAP()
 Skin = gg.multiChoice({
 R.."ᴜᴍᴘ ᴘɪxᴇʟ",
 R.."ᴜᴍᴘ ɪʀᴏɴ",
@@ -71,67 +71,67 @@ R.."ᴍᴘ5 ᴅᴜsᴋ",
 R.."ᴇxɪᴛ"
 }, nil, TitleAll)
 if Skin == nil then else
-if Skin[1] == true then NewSkin = 1 SkinChanger1() end
-if Skin[2] == true then NewSkin = 2 SkinChanger1() end
-if Skin[3] == true then NewSkin = 3 SkinChanger1() end
-if Skin[4] == true then NewSkin = 4 SkinChanger1() end
-if Skin[5] == true then NewSkin = 5 SkinChanger1() end
-if Skin[6] == true then NewSkin = 6 SkinChanger1() end
-if Skin[7] == true then NewSkin = 7 SkinChanger1() end
-if Skin[8] == true then NewSkin = 8 SkinChanger1() end
-if Skin[9] == true then NewSkin = 9 SkinChanger1() end
-if Skin[10] == true then NewSkin = 10 SkinChanger1() end
-if Skin[11] == true then NewSkin = 11 SkinChanger1() end
-if Skin[12] == true then NewSkin = 12 SkinChanger1() end
-if Skin[13] == true then NewSkin = 13 SkinChanger1() end
-if Skin[14] == true then NewSkin = 14 SkinChanger1() end
-if Skin[15] == true then NewSkin = 15 SkinChanger1() end
-if Skin[16] == true then NewSkin = 16 SkinChanger1() end
-if Skin[17] == true then NewSkin = 17 SkinChanger1() end
-if Skin[18] == true then NewSkin = 18 SkinChanger1() end
-if Skin[19] == true then NewSkin = 19 SkinChanger1() end
-if Skin[20] == true then NewSkin = 20 SkinChanger1() end
-if Skin[21] == true then NewSkin = 21 SkinChanger1() end
-if Skin[22] == true then NewSkin = 22 SkinChanger1() end
-if Skin[23] == true then NewSkin = 23 SkinChanger1() end
-if Skin[24] == true then NewSkin = 24 SkinChanger1() end
-if Skin[25] == true then NewSkin = 25 SkinChanger1() end
-if Skin[26] == true then NewSkin = 26 SkinChanger1() end
-if Skin[27] == true then NewSkin = 27 SkinChanger1() end
-if Skin[28] == true then NewSkin = 28 SkinChanger1() end
-if Skin[29] == true then NewSkin = 29 SkinChanger1() end
-if Skin[30] == true then NewSkin = 30 SkinChanger1() end
-if Skin[31] == true then NewSkin = 31 SkinChanger1() end
-if Skin[32] == true then NewSkin = 32 SkinChanger1() end
-if Skin[33] == true then NewSkin = 33 SkinChanger1() end
-if Skin[34] == true then NewSkin = 34 SkinChanger1() end
-if Skin[35] == true then NewSkin = 35 SkinChanger1() end
-if Skin[36] == true then NewSkin = 36 SkinChanger1() end
-if Skin[37] == true then NewSkin = 37 SkinChanger1() end
-if Skin[38] == true then NewSkin = 38 SkinChanger1() end
-if Skin[39] == true then NewSkin = 39 SkinChanger1() end
-if Skin[40] == true then NewSkin = 40 SkinChanger1() end
-if Skin[41] == true then NewSkin = 41 SkinChanger1() end
-if Skin[42] == true then NewSkin = 42 SkinChanger1() end
-if Skin[43] == true then NewSkin = 43 SkinChanger1() end
-if Skin[44] == true then NewSkin = 44 SkinChanger1() end
-if Skin[45] == true then NewSkin = 45 SkinChanger1() end
-if Skin[46] == true then NewSkin = 46 SkinChanger1() end
-if Skin[47] == true then NewSkin = 47 SkinChanger1() end
-if Skin[48] == true then NewSkin = 48 SkinChanger1() end
-if Skin[49] == true then NewSkin = 49 SkinChanger1() end
-if Skin[50] == true then NewSkin = 50 SkinChanger1() end
-if Skin[51] == true then NewSkin = 51 SkinChanger1() end
-if Skin[52] == true then NewSkin = 52 SkinChanger1() end
-if Skin[53] == true then NewSkin = 53 SkinChanger1() end
-if Skin[54] == true then NewSkin = 54 SkinChanger1() end
-if Skin[55] == true then NewSkin = 55 SkinChanger1() end
-if Skin[56] == true then NewSkin = 56 SkinChanger1() end
+if Skin[1] == true then NewSkin = 1 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[2] == true then NewSkin = 2 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[3] == true then NewSkin = 3 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[4] == true then NewSkin = 4 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[5] == true then NewSkin = 5 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[6] == true then NewSkin = 6 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[7] == true then NewSkin = 7 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[8] == true then NewSkin = 8 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[9] == true then NewSkin = 9 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[10] == true then NewSkin = 10 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[11] == true then NewSkin = 11 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[12] == true then NewSkin = 12 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[13] == true then NewSkin = 13 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[14] == true then NewSkin = 14 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[15] == true then NewSkin = 15 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[16] == true then NewSkin = 16 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[17] == true then NewSkin = 17 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[18] == true then NewSkin = 18 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[19] == true then NewSkin = 19 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[20] == true then NewSkin = 20 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[21] == true then NewSkin = 21 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[22] == true then NewSkin = 22 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[23] == true then NewSkin = 23 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[24] == true then NewSkin = 24 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[25] == true then NewSkin = 25 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[26] == true then NewSkin = 26 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[27] == true then NewSkin = 27 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[28] == true then NewSkin = 28 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[29] == true then NewSkin = 29 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[30] == true then NewSkin = 30 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[31] == true then NewSkin = 31 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[32] == true then NewSkin = 32 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[33] == true then NewSkin = 33 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[34] == true then NewSkin = 34 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[35] == true then NewSkin = 35 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[36] == true then NewSkin = 36 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[37] == true then NewSkin = 37 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[38] == true then NewSkin = 38 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[39] == true then NewSkin = 39 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[40] == true then NewSkin = 40 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[41] == true then NewSkin = 41 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[42] == true then NewSkin = 42 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[43] == true then NewSkin = 43 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[44] == true then NewSkin = 44 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[45] == true then NewSkin = 45 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[46] == true then NewSkin = 46 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[47] == true then NewSkin = 47 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[48] == true then NewSkin = 48 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[49] == true then NewSkin = 49 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[50] == true then NewSkin = 50 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[51] == true then NewSkin = 51 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[52] == true then NewSkin = 52 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[53] == true then NewSkin = 53 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[54] == true then NewSkin = 54 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[55] == true then NewSkin = 55 LFKWKFKAKOAPAPAPAPAP1() end
+if Skin[56] == true then NewSkin = 56 LFKWKFKAKOAPAPAPAPAP1() end
 if Skin[57] == true then hellow = 0 and Bit32() end
 end
 end
 
-function SkinChanger1()
+function LFKWKFKAKOAPAPAPAPAP1()
 Skin2 = gg.choice({
 R.."ᴋɴɪꜰᴇs",
 R.."ᴘɪsᴛᴏʟs",
@@ -144,19 +144,19 @@ R.."ɢʟᴏᴠᴇs"
 }, nil, TitleAll)
 if Skin2 == nil then else
 if Skin2 == 1 then Knifes() end
-if Skin2 == 2 then SkinPistols = gg.choice({R.."ɢ22",R.."ᴜsᴘ",R.."ᴘ350",R.."ᴛᴇᴄ9",R.."ᴅᴇᴀɢʟᴇ",R.."ꜰɪᴠᴇsᴇᴠᴇɴ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinPistols == nil then SkinChanger1() end if SkinPistols == 1 then G22() end if SkinPistols == 2 then USP() end if SkinPistols == 3 then P350() end if SkinPistols == 4 then Tec9() end if SkinPistols == 5 then Deagle() end if SkinPistols == 6 then FS() end if SkinPistols == 7 then SkinChanger1() end end
-if Skin2 == 3 then SkinShotgunsRifles = gg.choice({R.."sᴍ1014",R.."ғᴀʙᴍ",R.."ᴍ60",R.."sᴘᴀs",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinShotgunsRifles == nil then SkinChanger1() end if SkinShotgunsRifles == 1 then SM1014() end if SkinShotgunsRifles == 2 then FabM() end if SkinShotgunsRifles == 3 then M60() end if SkinShotgunsRifles == 4 then SPAS() end if SkinShotgunsRifles == 5 then SkinChanger1() end end
-if Skin2 == 4 then SkinSubmachineRifles = gg.choice({R.."ᴜᴍᴘ",R.."ᴍᴘ7",R.."ᴍᴘ5",R.."ᴘ90",R.."ᴍᴀᴄ10",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinSubmachineRifles == nil then SkinChanger1() end if SkinSubmachineRifles == 1 then UMP45() end if SkinSubmachineRifles == 2 then MP7() end if SkinSubmachineRifles == 3 then MP5() end if SkinSubmachineRifles == 4 then P90() end if SkinSubmachineRifles == 5 then MAC10() end if SkinSubmachineRifles == 6 then SkinChanger1() end end
-if Skin2 == 5 then SkinAssaultRifles = gg.choice({R.."ᴀᴋʀ",R.."ᴍ4",R.."ꜰᴀᴍᴀs",R.."ꜰɴꜰᴀʟ",R.."ᴀᴋʀ12",R.."ᴍ16",R.."ᴍ4ᴀ1",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinAssaultRifles == nil then SkinChanger1() end if SkinAssaultRifles == 1 then AKR() end if SkinAssaultRifles == 2 then M4() end if SkinAssaultRifles == 3 then Famas() end if SkinAssaultRifles == 4 then FnFal() end if SkinAssaultRifles == 5 then AKR12() end if SkinAssaultRifles == 6 then M16() end if SkinAssaultRifles == 7 then M4A1() end if SkinAssaultRifles == 8 then SkinChanger1() end end
-if Skin2 == 6 then SkinSniperRifles = gg.choice({R.."ᴀᴡᴍ",R.."ᴍ40",R.."ᴍ110",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinSniperRifles == nil then SkinChanger1() end if SkinSniperRifles == 1 then AWM() end if SkinSniperRifles == 2 then M40() end if SkinSniperRifles == 3 then M110() end if SkinSniperRifles == 4 then SkinChanger1() end end
+if Skin2 == 2 then SkinPistols = gg.choice({R.."ɢ22",R.."ᴜsᴘ",R.."ᴘ350",R.."ᴛᴇᴄ9",R.."ᴅᴇᴀɢʟᴇ",R.."ꜰɪᴠᴇsᴇᴠᴇɴ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinPistols == nil then LFKWKFKAKOAPAPAPAPAP1() end if SkinPistols == 1 then G22() end if SkinPistols == 2 then USP() end if SkinPistols == 3 then P350() end if SkinPistols == 4 then Tec9() end if SkinPistols == 5 then Deagle() end if SkinPistols == 6 then FS() end if SkinPistols == 7 then LFKWKFKAKOAPAPAPAPAP1() end end
+if Skin2 == 3 then SkinShotgunsRifles = gg.choice({R.."sᴍ1014",R.."ғᴀʙᴍ",R.."ᴍ60",R.."sᴘᴀs",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinShotgunsRifles == nil then LFKWKFKAKOAPAPAPAPAP1() end if SkinShotgunsRifles == 1 then SM1014() end if SkinShotgunsRifles == 2 then FabM() end if SkinShotgunsRifles == 3 then M60() end if SkinShotgunsRifles == 4 then SPAS() end if SkinShotgunsRifles == 5 then LFKWKFKAKOAPAPAPAPAP1() end end
+if Skin2 == 4 then SkinSubmachineRifles = gg.choice({R.."ᴜᴍᴘ",R.."ᴍᴘ7",R.."ᴍᴘ5",R.."ᴘ90",R.."ᴍᴀᴄ10",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinSubmachineRifles == nil then LFKWKFKAKOAPAPAPAPAP1() end if SkinSubmachineRifles == 1 then UMP45() end if SkinSubmachineRifles == 2 then MP7() end if SkinSubmachineRifles == 3 then MP5() end if SkinSubmachineRifles == 4 then P90() end if SkinSubmachineRifles == 5 then MAC10() end if SkinSubmachineRifles == 6 then LFKWKFKAKOAPAPAPAPAP1() end end
+if Skin2 == 5 then SkinAssaultRifles = gg.choice({R.."ᴀᴋʀ",R.."ᴍ4",R.."ꜰᴀᴍᴀs",R.."ꜰɴꜰᴀʟ",R.."ᴀᴋʀ12",R.."ᴍ16",R.."ᴍ4ᴀ1",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinAssaultRifles == nil then LFKWKFKAKOAPAPAPAPAP1() end if SkinAssaultRifles == 1 then AKR() end if SkinAssaultRifles == 2 then M4() end if SkinAssaultRifles == 3 then Famas() end if SkinAssaultRifles == 4 then FnFal() end if SkinAssaultRifles == 5 then AKR12() end if SkinAssaultRifles == 6 then M16() end if SkinAssaultRifles == 7 then M4A1() end if SkinAssaultRifles == 8 then LFKWKFKAKOAPAPAPAPAP1() end end
+if Skin2 == 6 then SkinSniperRifles = gg.choice({R.."ᴀᴡᴍ",R.."ᴍ40",R.."ᴍ110",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinSniperRifles == nil then LFKWKFKAKOAPAPAPAPAP1() end if SkinSniperRifles == 1 then AWM() end if SkinSniperRifles == 2 then M40() end if SkinSniperRifles == 3 then M110() end if SkinSniperRifles == 4 then LFKWKFKAKOAPAPAPAPAP1() end end
 if Skin2 == 7 then Medals() end
-if Skin2 == 8 then GlovesSkin = gg.choice({R.."ɢʟᴏᴠᴇs ᴘʜᴏᴇɴɪx",R.."ɢʟᴏᴠᴇs ᴀᴜᴛᴜᴍɴ",R.."ɢʟᴏᴠᴇs ɢᴇᴏᴍᴇᴛʀɪᴄ",R.."ɢʟᴏᴠᴇs ʀᴇᴛʀᴏᴡᴀᴠᴇ",R.."ɢʟᴏᴠᴇs ʟɪᴠɪɴɢ ғʟᴀᴍᴇ",R.."ɢʟᴏᴠᴇs ɴᴇᴜʀᴏ",R.."ɢʟᴏᴠᴇs ʙᴜʀɴɪɴɢ ғɪsᴛs",R.."ɢʟᴏᴠᴇs ᴘᴜɴᴋ",R.."ɢʟᴏᴠᴇs ᴄʜᴀᴍᴘɪᴏɴ",R.."ɢʟᴏᴠᴇs sᴛᴇᴀᴍ ʀɪᴅᴇʀ",R.."ɢʟᴏᴠᴇs ʏᴇᴀʀ ᴏꜰ ᴛʜᴇ ᴛɪɢᴇʀ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if GlovesSkin == nil then SkinChanger1() end if GlovesSkin == 1 then Change=3000 Edit() end if GlovesSkin == 2 then Change=3001 Edit() end if GlovesSkin == 3 then Change=3002 Edit() end if GlovesSkin == 4 then Change=3003 Edit() end if GlovesSkin == 5 then Change=3004 Edit() end if GlovesSkin == 6 then Change=3005 Edit() end if GlovesSkin == 7 then Change=3006 Edit() end if GlovesSkin == 8 then Change=3007 Edit() end if GlovesSkin == 9 then Change=3008 Edit() end if GlovesSkin == 10 then Change=3009 Edit() end if GlovesSkin == 11 then Change=3010 Edit() end if GlovesSkin == 12 then SkinChanger1() end end
+if Skin2 == 8 then GlovesSkin = gg.choice({R.."ɢʟᴏᴠᴇs ᴘʜᴏᴇɴɪx",R.."ɢʟᴏᴠᴇs ᴀᴜᴛᴜᴍɴ",R.."ɢʟᴏᴠᴇs ɢᴇᴏᴍᴇᴛʀɪᴄ",R.."ɢʟᴏᴠᴇs ʀᴇᴛʀᴏᴡᴀᴠᴇ",R.."ɢʟᴏᴠᴇs ʟɪᴠɪɴɢ ғʟᴀᴍᴇ",R.."ɢʟᴏᴠᴇs ɴᴇᴜʀᴏ",R.."ɢʟᴏᴠᴇs ʙᴜʀɴɪɴɢ ғɪsᴛs",R.."ɢʟᴏᴠᴇs ᴘᴜɴᴋ",R.."ɢʟᴏᴠᴇs ᴄʜᴀᴍᴘɪᴏɴ",R.."ɢʟᴏᴠᴇs sᴛᴇᴀᴍ ʀɪᴅᴇʀ",R.."ɢʟᴏᴠᴇs ʏᴇᴀʀ ᴏꜰ ᴛʜᴇ ᴛɪɢᴇʀ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if GlovesSkin == nil then LFKWKFKAKOAPAPAPAPAP1() end if GlovesSkin == 1 then Change=3000 Edit() end if GlovesSkin == 2 then Change=3001 Edit() end if GlovesSkin == 3 then Change=3002 Edit() end if GlovesSkin == 4 then Change=3003 Edit() end if GlovesSkin == 5 then Change=3004 Edit() end if GlovesSkin == 6 then Change=3005 Edit() end if GlovesSkin == 7 then Change=3006 Edit() end if GlovesSkin == 8 then Change=3007 Edit() end if GlovesSkin == 9 then Change=3008 Edit() end if GlovesSkin == 10 then Change=3009 Edit() end if GlovesSkin == 11 then Change=3010 Edit() end if GlovesSkin == 12 then LFKWKFKAKOAPAPAPAPAP1() end end
 end
 end
 
 function Knifes()
 KnifeSkin = gg.choice({R.."ᴋᴀʀᴀᴍʙɪᴛ",R.."ʙᴜᴛᴛᴇʀꜰʟʏ",R.."ᴋᴜɴᴀɪ",R.."ᴍ9 ʙᴀʏᴏɴᴇᴛ",R.."sᴄᴏʀᴘɪᴏɴ",R.."ᴊᴋᴏᴍᴍᴀɴᴅᴏ",R.."ꜰʟɪᴘᴋɴɪꜰᴇ",R.."ᴛᴀɴᴛᴏ",R.."ᴅᴀɢɢᴇʀ",R.."ᴋᴜᴋʀɪ",R.."ʙᴀᴄᴋ"}, nil, TitleAll)
-if KnifeSkin == nil then SkinChanger1() end
+if KnifeSkin == nil then LFKWKFKAKOAPAPAPAPAP1() end
 if KnifeSkin == 1 then SkinKaramb = gg.choice({R.."ᴋᴀʀᴀᴍʙɪᴛ ᴄʟᴀᴡ",R.."ᴋᴀʀᴀᴍʙɪᴛ ɢᴏʟᴅ",R.."ᴋᴀʀᴀᴍʙɪᴛ ᴅʀᴀɢᴏɴ ɢʟᴀss",R.."ᴋᴀʀᴀᴍʙɪᴛ sᴄʀᴀᴛᴄʜ",R.."ᴋᴀʀᴀᴍʙɪᴛ ᴜɴɪᴠᴇʀsᴇ",R.."ᴋᴀʀᴀᴍʙɪᴛ ᴄᴏʟᴅꜰʀᴀᴍ",R.."ᴋᴀʀᴀᴍʙɪᴛ ꜰʀᴏᴢᴇɴ",R.."ᴋᴀʀᴀᴍʙɪᴛ sʜᴏᴡᴄᴀᴍᴏ",R.."ᴋᴀʀᴀᴍʙɪᴛ ʏᴇᴀʀ ᴏꜰ ᴛʜᴇ ᴛɪɢᴇʀ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinKaramb == nil then Knifes() end if SkinKaramb == 1 then Change=72002 Edit() end if SkinKaramb == 2 then Change=72003 Edit() end if SkinKaramb == 3 then Change=72004 Edit() end if SkinKaramb == 4 then Change=72006 Edit() end if SkinKaramb == 5 then Change=72007 Edit() end if SkinKaramb == 6 then Change=97200 Edit() end if SkinKaramb == 7 then Change=97201 Edit() end if SkinKaramb == 8 then Change=97203 Edit() end if SkinKaramb == 9 then Change=157200 Edit() end if SkinKaramb == 10 then Knifes() end end
 if KnifeSkin == 2 then SkinBabochka = gg.choice({R.."ʙᴜᴛᴛᴇʀꜰʟʏ ᴅʀᴀɢᴏɴ ɢʟᴀss",R.."ʙᴜᴛᴛᴇʀꜰʟʏ ʟᴇɢᴀᴄʏ",R.."ʙᴜᴛᴛᴇʀꜰʟʏ ꜰɪʀᴇ sᴛᴏʀᴍ",R.."ʙᴜᴛᴛᴇʀꜰʟʏ ʙʟᴀᴄᴋ ᴡɪᴅᴏᴡ",R.."ʙᴜᴛᴛᴇʀꜰʟʏ sᴛᴀʀꜰᴀʟʟ",R.."ʙᴜᴛᴛᴇʀꜰʟʏ ᴄᴏʟᴅꜰʀᴀᴍ",R.."ʙᴜᴛᴛᴇʀꜰʟʏ ᴋᴜᴍᴏ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinBabochka == nil then Knifes() end if SkinBabochka == 1 then Change=47503 Edit() end if SkinBabochka == 2 then Change=47502 Edit() end if SkinBabochka == 3 then Change=57501 Edit() end if SkinBabochka == 4 then Change=47504 Edit() end if SkinBabochka == 5 then Change=47505 Edit() end if SkinBabochka == 6 then Change=97500 Edit() end if SkinBabochka == 7 then Change=157500 Edit() end if SkinBabochka == 8 then Knifes() end end
 if KnifeSkin == 3 then SkinKynay = gg.choice({R.."ᴋᴜɴᴀɪ ʙᴏɴᴇ",R.."ᴋᴜɴᴀɪ ʟᴜxᴜʀʏ",R.."ᴋᴜɴᴀɪ ᴘᴏɪsᴏɴ",R.."ᴋᴜɴᴀɪ ʀᴀᴅɪᴀᴛɪᴏɴ",R.."ᴋᴜɴᴀɪ ʀᴇᴀᴘᴇʀ",R.."ᴋᴜɴᴀɪ ᴄᴏʟᴅꜰʀᴀᴍ",R.."ᴋᴜɴᴀɪ sʜᴏᴡᴄᴀᴍᴏ",R.."ᴋᴜɴᴀɪ ᴀᴜɢᴜsᴛɪᴛᴇ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinKynay == nil then Knifes() end if SkinKynay == 1 then Change=77813 Edit() end if SkinKynay == 2 then Change=77814 Edit() end if SkinKynay == 3 then Change=77815 Edit() end if SkinKynay == 4 then Change=77816 Edit() end if SkinKynay == 5 then Change=77817 Edit() end if SkinKynay == 6 then Change=97800 Edit() end if SkinKynay == 7 then Change=97801 Edit() end if SkinKynay == 8 then Change=157800 Edit() end if SkinKynay == 9 then Knifes() end end
@@ -167,7 +167,7 @@ if KnifeSkin == 7 then SkinFlipKn = gg.choice({R.."ꜰʟɪᴘᴋɴɪꜰᴇ ꜰʀ
 if KnifeSkin == 8 then SkinTanto = gg.choice({R.."ᴛᴀɴᴛᴏ ᴅᴏᴊᴏ",R.."ᴛᴀɴᴛᴏ ᴍᴀꜰɪᴀ",R.."ᴛᴀɴᴛᴏ ᴍᴀʟᴀᴄʜɪᴛᴇ",R.."ᴛᴀɴᴛᴏ ᴘᴇᴀʀʟ ᴀʙʏss",R.."ᴛᴀɴᴛᴏ ᴛʀᴀɴsɪsᴛᴏʀ",R.."ᴛᴀɴᴛᴏ ꜰʟᴏᴡ",R.."ᴛᴀɴᴛᴏ ʀᴇsᴛʟᴇss",R.."ᴛᴀɴᴛᴏ ʏᴇᴀʀ ᴏꜰ ᴛʜᴇ ᴛɪɢᴇʀ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinTanto == nil then Knifes() end if SkinTanto == 1 then Change=138000 Edit() end if SkinTanto == 2 then Change=138001 Edit() end if SkinTanto == 3 then Change=138002 Edit() end if SkinTanto == 4 then Change=138003 Edit() end if SkinTanto == 5 then Change=138004 Edit() end if SkinTanto == 6 then Change=138005 Edit() end if SkinTanto == 7 then Change=148000 Edit() end if SkinTanto == 8 then Change=158000 Edit() end if SkinTanto == 9 then Knifes() end end
 if KnifeSkin == 9 then SkinDragger = gg.choice({R.."ᴅᴀɢɢᴇʀ ᴀᴄɪᴅ",R.."ᴅᴀɢɢᴇʀ ᴅᴇᴍᴏɴɪᴄ sᴛᴇᴇʟ",R.."ᴅᴀɢɢᴇʀ ɢʀᴜɴɢᴇ",R.."ᴅᴀɢɢᴇʀ ᴍᴏʟᴛᴇɴ",R.."ᴅᴀɢɢᴇʀ ʜᴀʀᴍᴏɴʏ",R.."ᴅᴀɢɢᴇʀ ᴊᴀᴡs",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinDragger == nil then Knifes() end if SkinDragger == 1 then Change=170021 Edit() end if SkinDragger == 2 then Change=170022 Edit() end if SkinDragger == 3 then Change=170023 Edit() end if SkinDragger == 4 then Change=170024 Edit() end if SkinDragger == 5 then Change=180000 Edit() end if SkinDragger == 6 then Change=180028 Edit() end if SkinDragger == 6 then Knifes() end end
 if KnifeSkin == 10 then SkinKurka = gg.choice({R.."ᴋᴜᴋʀɪ ᴀʀᴇs",R.."ᴋᴜᴋʀɪ ᴘʀᴏᴘʜᴇᴛ",R.."ᴋᴜᴋʀɪ ɢᴏʟᴅ ᴛʀɪᴍ",R.."ᴋᴜᴋʀɪ ᴀɴᴛɪǫᴜᴇ sɪʟᴠᴇʀ",R.."ᴋᴜᴋʀɪ ᴄᴏɴsᴛᴇʟʟᴀᴛɪᴏɴs",R.."ᴋᴜᴋʀɪ ᴅɪᴠɪɴᴇ ᴘᴏᴡᴇʀ",R.."ʙᴀᴄᴋ"}, nil, TitleAll) if SkinKurka == nil then Knifes() end if SkinKurka == 1 then Change=180022 Edit() end if SkinKurka == 2 then Change=180023 Edit() end if SkinKurka == 3 then Change=180024 Edit() end if SkinKurka == 4 then Change=180025 Edit() end if SkinKurka == 5 then Change=180026 Edit() end if SkinKurka == 6 then Change=180027 Edit() end if SkinKurka == 7 then Knifes() end end
-if KnifeSkin == 11 then SkinChanger1() end
+if KnifeSkin == 11 then LFKWKFKAKOAPAPAPAPAP1() end
 end
 
 function G22()
@@ -774,7 +774,7 @@ end
 
 function Stattrack()
 SkinStattrack = gg.choice({"sᴛᴀᴛᴛʀᴀᴄᴋ","ᴅᴇғᴀᴜʟᴛ"},nil,TitleAll)
-if SkinStattrack == nil then SkinChanger1() else
+if SkinStattrack == nil then LFKWKFKAKOAPAPAPAPAP1() else
 if SkinStattrack == 1 then Change = Change + 1000000 Edit() end
 if SkinStattrack == 2 then Edit() end
 end
@@ -782,7 +782,7 @@ end
 
 function Years()
 YearPass = gg.choice({"sɪʟᴠᴇʀ","ɢᴏʟᴅ"},nil,TitleAll)
-if YearPass == nil then SkinChanger1() else
+if YearPass == nil then LFKWKFKAKOAPAPAPAPAP1() else
 if YearPass == 1 then MedalLegend=" sɪʟᴠᴇʀ" Edit() end
 if YearPass == 2 then Change = Change + 1 MedalLegend=" ɢᴏʟᴅ" Edit() end
 end
@@ -790,7 +790,7 @@ end
 
 function FourButt()
 VeterPass = gg.choice({"ʙʀᴏɴᴢᴇ","sɪʟᴠᴇʀ","ɢᴏʟᴅ","ᴘʟᴀᴛɪɴᴜᴍ"},nil,TitleAll)
-if VeterPass == nil then SkinChanger1() else
+if VeterPass == nil then LFKWKFKAKOAPAPAPAPAP1() else
 if VeterPass == 1 then MedalLegend=" ʙʀᴏɴᴢᴇ" Edit() end
 if VeterPass == 2 then Change = Change + 1 MedalLegend=" sɪʟᴠᴇʀ" Edit() end
 if VeterPass == 3 then Change = Change + 2 MedalLegend=" ɢᴏʟᴅ" Edit() end
@@ -800,7 +800,7 @@ end
 
 function FiveButt()
 Pass5 = gg.choice({"ʙʀᴏɴᴢᴇ","sɪʟᴠᴇʀ","ɢᴏʟᴅ","ᴘʟᴀᴛɪɴᴜᴍ","ʙʀɪʟʟɪᴀɴᴛ"},nil,TitleAll)
-if Pass5 == nil then SkinChanger1() else
+if Pass5 == nil then LFKWKFKAKOAPAPAPAPAP1() else
 if Pass5 == 1 then MedalLegend=" ʙʀᴏɴᴢᴇ" Edit() end
 if Pass5 == 2 then Change = Change + 1 MedalLegend=" sɪʟᴠᴇʀ" Edit() end
 if Pass5 == 3 then Change = Change + 2 MedalLegend=" ɢᴏʟᴅ" Edit() end
@@ -811,7 +811,7 @@ end
 
 function DragoCursed()
 PPass6 = gg.choice({"ʙʀᴏɴᴢᴇ","sɪʟᴠᴇʀ","ɢᴏʟᴅ","ᴇʟɪᴛᴇ ɢᴏʟᴅ","ᴘʟᴀᴛɪɴᴜᴍ","ʀᴜʙɪɴ"},nil,TitleAll)
-if PPass6 == nil then SkinChanger1() else
+if PPass6 == nil then LFKWKFKAKOAPAPAPAPAP1() else
 if PPass6 == 1 then MedalLegend=" ʙʀᴏɴᴢᴇ" Edit() end
 if PPass6 == 2 then Change = Change + 1 MedalLegend=" sɪʟᴠᴇʀ" Edit() end
 if PPass6 == 3 then Change = Change + 2 MedalLegend=" ɢᴏʟᴅ" Edit() end
@@ -823,7 +823,7 @@ end
 
 function RevivalYear()
 Pass6 = gg.choice({"ʙʀᴏɴᴢᴇ","sɪʟᴠᴇʀ","ɢᴏʟᴅ","ᴇʟɪᴛᴇ ɢᴏʟᴅ","ᴘʟᴀᴛɪɴᴜᴍ","ʙʀɪʟʟɪᴀɴᴛ"},nil,TitleAll)
-if Pass6 == nil then SkinChanger1() else
+if Pass6 == nil then LFKWKFKAKOAPAPAPAPAP1() else
 if Pass6 == 1 then MedalLegend=" ʙʀᴏɴᴢᴇ" Edit() end
 if Pass6 == 2 then Change = Change + 1 MedalLegend=" sɪʟᴠᴇʀ" Edit() end
 if Pass6 == 3 then Change = Change + 2 MedalLegend=" ɢᴏʟᴅ" Edit() end
@@ -835,7 +835,7 @@ end
 
 function Medals()
 MedalSkin = gg.choice({R.."ᴍᴇᴅᴀʟ ᴀssɪsᴛᴀɴᴄᴇ",R.."ᴍᴇᴅᴀʟ ᴠᴇᴛᴇʀᴀɴ 2018",R.."ᴍᴇᴅᴀʟ ᴠᴇᴛᴇʀᴀɴ 2019",R.."ᴍᴇᴅᴀʟ 2 ʏᴇᴀʀs",R.."ᴍᴇᴅᴀʟ ᴄᴏᴍᴘᴇᴛɪᴛɪᴠᴇ",R.."ᴍᴇᴅᴀʟ ɴᴇᴡ ʏᴇᴀʀ 2020",R.."ᴍᴇᴅᴀʟ ᴠᴇᴛᴇʀᴀɴ 2020",R.."ᴍᴇᴅᴀʟ ᴘʀᴏᴊᴇᴄᴛ ᴢ9",R.."ʙᴀᴅɢᴇ ʀᴇᴠɪᴠᴀʟ",R.."ᴍᴇᴅᴀʟ ɴᴇᴡ ʏᴇᴀʀ 2021",R.."ᴍᴇᴅᴀʟ ᴠᴇᴛᴇʀᴀɴ 2021",R.."ᴍᴇᴅᴀʟ 4 ʏᴇᴀʀs",R.."ᴍᴇᴅᴀʟ ᴅʀᴀɢᴏɴ ʀɪsᴇ",R.."ᴍᴇᴅᴀʟ ᴄᴜʀsᴇᴅ sᴏᴜʟs",R.."ᴍᴇᴅᴀʟ ᴡɪɴᴛᴇʀ ꜰᴜɴ",R.."ᴍᴇᴅᴀʟ ᴠᴇᴛᴇʀᴀɴ 2022",R.."ᴍᴇᴅᴀʟ 5 ʏᴇᴀʀs",R.."ʙᴀᴅɢᴇ ʟᴇɢᴇɴᴅs",R.."ʙᴀᴄᴋ"}, nil, TitleAll)
-if MedalSkin == nil then SkinChanger1() end
+if MedalSkin == nil then LFKWKFKAKOAPAPAPAPAP1() end
 if MedalSkin == 1 then Change=100 FiveButt() end
 if MedalSkin == 2 then Change=105 FourButt() end
 if MedalSkin == 3 then Change=109 FourButt() end
@@ -854,7 +854,7 @@ if MedalSkin == 15 then Change=165 RevivalYear() end
 if MedalSkin == 16 then Change=171 FiveButt() end
 if MedalSkin == 17 then Change=176 Years() end
 if MedalSkin == 18 then Change=178 RevivalYear() end
-if MedalSkin == 19 then SkinChanger1() end
+if MedalSkin == 19 then LFKWKFKAKOAPAPAPAPAP1() end
 end
 
 function Edit()
@@ -1102,5 +1102,5 @@ end
 
 while true do
 if gg.isVisible(true) then
-gg.setVisible(false) SkinChanger()
+gg.setVisible(false) LFKWKFKAKOAPAPAPAPAP()
 end end
