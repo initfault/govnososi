@@ -17,418 +17,233 @@ Installed = {'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', '�
 Load = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 Function = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 
-function LoadingSkin(search, value)
-offset = 24
-gg.setVisible(false)
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber(search, gg.TYPE_QWORD)
-res = gg.getResults(2000)
-checkRes = {}
-finalRes = {}
-for i, v in ipairs(res) do
-checkRes[i] = {}
-checkRes[i].address = res[i].address + offset
-checkRes[i].flags = gg.TYPE_QWORD
-end
-checkRes = gg.getValues(checkRes)
-for i, v in ipairs(checkRes) do
-if v.value == 1 then table.insert(finalRes, res[i]) end
-end
-if #finalRes == 0 then 
-gg.clearResults() gg.toast('sᴋɪɴ ɴᴏᴛ ꜰᴏᴜɴᴅ') gg.setVisible(true) os.exit()
-end
-gg.addListItems(finalRes)
-editVal = {}
-for i, v in ipairs(finalRes) do
-editVal[i] = {}
-editVal[i].address = finalRes[i].address + 4
-editVal[i].flags = gg.TYPE_DWORD
-editVal[i].value = value
-end
-gg.setValues(editVal)
-gg.clearList()
-gg.clearResults()
-offset = 48
-gg.setVisible(false)
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber(search, gg.TYPE_QWORD)
-res = gg.getResults(2000)
-checkRes = {}
-finalRes = {}
-for i, v in ipairs(res) do
-checkRes[i] = {}
-checkRes[i].address = res[i].address + offset
-checkRes[i].flags = gg.TYPE_QWORD
-end
-checkRes = gg.getValues(checkRes)
-for i, v in ipairs(checkRes) do
-if v.value == 1 then table.insert(finalRes, res[i]) end
-end
-if #finalRes == 0 then 
-gg.clearResults() gg.toast('sᴋɪɴ ɴᴏᴛ ꜰᴏᴜɴᴅ') gg.setVisible(true) os.exit()
-end
-gg.addListItems(finalRes)
-editVal = {}
-for i, v in ipairs(finalRes) do
-editVal[i] = {}
-editVal[i].address = finalRes[i].address + 4
-editVal[i].flags = gg.TYPE_DWORD
-editVal[i].value = value
-end
-gg.setValues(editVal)
-gg.clearList()
-gg.clearResults()
-offset = 24
-gg.setVisible(false)
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber(search, gg.TYPE_DWORD)
-res = gg.getResults(2000)
-checkRes = {}
-finalRes = {}
-for i, v in ipairs(res) do
-checkRes[i] = {}
-checkRes[i].address = res[i].address + offset
-checkRes[i].flags = gg.TYPE_DWORD
-end
-checkRes = gg.getValues(checkRes)
-for i, v in ipairs(checkRes) do
-if v.value == 1 then table.insert(finalRes, res[i]) end
-end
-if #finalRes == 0 then 
-gg.clearResults() gg.toast('sᴋɪɴ ɴᴏᴛ ꜰᴏᴜɴᴅ') gg.setVisible(true) os.exit()
-end
-gg.addListItems(finalRes)
-editVal = {}
-for i, v in ipairs(finalRes) do
-editVal[i] = {}
-editVal[i].address = finalRes[i].address + 4
-editVal[i].flags = gg.TYPE_DWORD
-editVal[i].value = value
-end
-gg.setValues(editVal)
-gg.clearList()
-gg.clearResults()
-offset = 48
-gg.setVisible(false)
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber(search, gg.TYPE_DWORD)
-res = gg.getResults(2000)
-checkRes = {}
-finalRes = {}
-for i, v in ipairs(res) do
-checkRes[i] = {}
-checkRes[i].address = res[i].address + offset
-checkRes[i].flags = gg.TYPE_DWORD
-end
-checkRes = gg.getValues(checkRes)
-for i, v in ipairs(checkRes) do
-if v.value == 1 then table.insert(finalRes, res[i]) end
-end
-if #finalRes == 0 then 
-gg.clearResults() gg.toast('sᴋɪɴ ɴᴏᴛ ꜰᴏᴜɴᴅ') gg.setVisible(true) os.exit()
-end
-gg.addListItems(finalRes)
-editVal = {}
-for i, v in ipairs(finalRes) do
-editVal[i] = {}
-editVal[i].address = finalRes[i].address + 4
-editVal[i].flags = gg.TYPE_DWORD
-editVal[i].value = value
-end
-gg.setValues(editVal)
-gg.clearList()
-gg.clearResults()
-offset = 24
-gg.setVisible(false)
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber(search, gg.TYPE_DWORD)
-res = gg.getResults(2000)
-checkRes = {}
-finalRes = {}
-for i, v in ipairs(res) do
-checkRes[i] = {}
-checkRes[i].address = res[i].address + offset
-checkRes[i].flags = gg.TYPE_QWORD
-end
-checkRes = gg.getValues(checkRes)
-for i, v in ipairs(checkRes) do
-if v.value == 1 then table.insert(finalRes, res[i]) end
-end
-if #finalRes == 0 then 
-gg.clearResults() gg.toast('sᴋɪɴ ɴᴏᴛ ꜰᴏᴜɴᴅ') gg.setVisible(true) os.exit()
-end
-gg.addListItems(finalRes)
-editVal = {}
-for i, v in ipairs(finalRes) do
-editVal[i] = {}
-editVal[i].address = finalRes[i].address + 4
-editVal[i].flags = gg.TYPE_DWORD
-editVal[i].value = value
-end
-gg.setValues(editVal)
-gg.clearList()
-gg.clearResults()
-offset = 48
-gg.setVisible(false)
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber(search, gg.TYPE_DWORD)
-res = gg.getResults(2000)
-checkRes = {}
-finalRes = {}
-for i, v in ipairs(res) do
-checkRes[i] = {}
-checkRes[i].address = res[i].address + offset
-checkRes[i].flags = gg.TYPE_QWORD
-end
-checkRes = gg.getValues(checkRes)
-for i, v in ipairs(checkRes) do
-if v.value == 1 then table.insert(finalRes, res[i]) end
-end
-if #finalRes == 0 then 
-gg.clearResults() gg.toast('sᴋɪɴ ɴᴏᴛ ꜰᴏᴜɴᴅ') gg.setVisible(true) os.exit()
-end
-gg.addListItems(finalRes)
-editVal = {}
-for i, v in ipairs(finalRes) do
-editVal[i] = {}
-editVal[i].address = finalRes[i].address + 4
-editVal[i].flags = gg.TYPE_DWORD
-editVal[i].value = value
-end
-gg.setValues(editVal)
-gg.clearList()
-gg.clearResults()
-end
-
 function StartFunction()
 if buildincfg ~= checkbuild then
 gg.sleep(1)
 else
 if Load[1] == '1' then
-LoadingSkin(137447543406592, Load[2])
+KFOAKCKSZZZZ(32002, Load[2])
 end
 
 if Load[3] == '1' then
-LoadingSkin(137464723275776, Load[4])
+KFOAKCKSZZZZ(32006, Load[4])
 end
 
 if Load[5] == '1' then
-LoadingSkin(185546882154496, Load[6])
+KFOAKCKSZZZZ(43201, Load[6])
 end
 
 if Load[7] == '1' then
-LoadingSkin(529139970867200, Load[8])
+KFOAKCKSZZZZ(123200, Load[8])
 end
 
 if Load[9] == '1' then
-LoadingSkin(64454574211072, Load[10])
+KFOAKCKSZZZZ(15007, Load[10])
 end
 
 if Load[11] == '1' then
-LoadingSkin(64433099374592, Load[12])
+KFOAKCKSZZZZ(15002, Load[12])
 end
 
 if Load[13] == '1' then
-LoadingSkin(64445984276480, Load[14])
+KFOAKCKSZZZZ(15005, Load[14])
 end
 
 if Load[15] == '1' then
-LoadingSkin(730161620189184, Load[16])
+KFOAKCKSZZZZ(170004, Load[16])
 end
 
 if Load[17] == '1' then
-LoadingSkin(348811473977344, Load[18])
+KFOAKCKSZZZZ(81214, Load[18])
 end
 
 if Load[19] == '1' then
-LoadingSkin(348815768944640, Load[20])
+KFOAKCKSZZZZ(81215, Load[20])
 end
 
 if Load[21] == '1' then
-LoadingSkin(176956947562496, Load[22])
+KFOAKCKSZZZZ(41201, Load[22])
 end
 
 if Load[23] == '1' then
-LoadingSkin(197581380517888, Load[24])
+KFOAKCKSZZZZ(46003, Load[24])
 end
 
 if Load[25] == '1' then
-LoadingSkin(188991445925888, Load[26])
+KFOAKCKSZZZZ(44003, Load[26])
 end
 
 if Load[27] == '1' then
-LoadingSkin(190700842909696, Load[28])
+KFOAKCKSZZZZ(44401, Load[28])
 end
 
 if Load[29] == '1' then
-LoadingSkin(534293931622400, Load[30])
+KFOAKCKSZZZZ(124400, Load[30])
 end
 
 if Load[31] == '1' then
-LoadingSkin(47266115092480, Load[32])
+KFOAKCKSZZZZ(11005, Load[32])
 end
 
 if Load[33] == '1' then
-LoadingSkin(47248935223296, Load[34])
+KFOAKCKSZZZZ(11001, Load[34])
 end
 
 if Load[35] == '1' then
-LoadingSkin(348356207443968, Load[36])
+KFOAKCKSZZZZ(81108, Load[36])
 end
 
 if Load[37] == '1' then
-LoadingSkin(47270410059776, Load[38])
+KFOAKCKSZZZZ(1006, Load[38])
 end
 
 if Load[39] == '1' then
-LoadingSkin(520120539545600, Load[40])
+KFOAKCKSZZZZ(121100, Load[40])
 end
 
 if Load[41] == '1' then
-LoadingSkin(186839667310592, Load[42])
+KFOAKCKSZZZZ(43502, Load[42])
 end
 
 if Load[43] == '1' then
-LoadingSkin(150336740261888, Load[44])
+KFOAKCKSZZZZ(35003, Load[44])
 end
 
 if Load[45] == '1' then
-LoadingSkin(150341035229184, Load[46])
+KFOAKCKSZZZZ(35004, Load[46])
 end
 
 if Load[47] == '1' then
-LoadingSkin(150328150327296, Load[48])
+KFOAKCKSZZZZ(35001, Load[48])
 end
 
 if Load[49] == '1' then
-LoadingSkin(266305152221184, Load[50])
+KFOAKCKSZZZZ(62004, Load[50])
 end
 
 if Load[51] == '1' then
-LoadingSkin(266313742155776, Load[52])
+KFOAKCKSZZZZ(62006, Load[52])
 end
 
 if Load[53] == '1' then
-LoadingSkin(194570608443392, Load[54])
+KFOAKCKSZZZZ(45302, Load[54])
 end
 
 if Load[55] == '1' then
-LoadingSkin(266309447188480, Load[56])
+KFOAKCKSZZZZ(62005, Load[56])
 end
 
 if Load[57] == '1' then
-LoadingSkin(542029167722496, Load[58])
+KFOAKCKSZZZZ(126201, Load[58])
 end
 
 if Load[59] == '1' then
-LoadingSkin(266292267319296, Load[60])
+KFOAKCKSZZZZ(62001, Load[60])
 end
 
 if Load[61] == '1' then
-LoadingSkin(730204569862144, Load[62])
+KFOAKCKSZZZZ(170014, Load[62])
 end
 
 if Load[63] == '1' then
-LoadingSkin(364668493234176, Load[64])
+KFOAKCKSZZZZ(84906, Load[64])
 end
 
 if Load[65] == '1' then
-LoadingSkin(192852621524992, Load[66])
+KFOAKCKSZZZZ(44902, Load[66])
 end
 
 if Load[67] == '1' then
-LoadingSkin(350525165928448, Load[68])
+KFOAKCKSZZZZ(81613, Load[68])
 end
 
 if Load[69] == '1' then
-LoadingSkin(178674934480896, Load[70])
+KFOAKCKSZZZZ(41601, Load[70])
 end
 
 if Load[71] == '1' then
-LoadingSkin(55843164782592, Load[72])
+KFOAKCKSZZZZ(13002, Load[72])
 end
 
 if Load[73] == '1' then
-LoadingSkin(55856049684480, Load[74])
+KFOAKCKSZZZZ(13005, Load[74])
 end
 
 if Load[75] == '1' then
-LoadingSkin(349279625412608, Load[76])
+KFOAKCKSZZZZ(81323, Load[76])
 end
 
 if Load[77] == '1' then
-LoadingSkin(370728692088832, Load[78])
+KFOAKCKSZZZZ(86317, Load[78])
 end
 
 if Load[79] == '1' then
-LoadingSkin(542454369484800, Load[80])
+KFOAKCKSZZZZ(126300, Load[80])
 end
 
 if Load[81] == '1' then
-LoadingSkin(186405875613696, Load[82])
+KFOAKCKSZZZZ(43401, Load[82])
 end
 
 if Load[83] == '1' then
-LoadingSkin(730213159796736, Load[84])
+KFOAKCKSZZZZ(170016, Load[84])
 end
 
 if Load[85] == '1' then
-LoadingSkin(193290708189184, Load[86])
+KFOAKCKSZZZZ(45004, Load[86])
 end
 
 if Load[87] == '1' then
-LoadingSkin(193286413221888, Load[88])
+KFOAKCKSZZZZ(45003, Load[88])
 end
 
 if Load[89] == '1' then
-LoadingSkin(362929031479296, Load[90])
+KFOAKCKSZZZZ(84501, Load[90])
 end
 
 if Load[91] == '1' then
-LoadingSkin(534723428352000, Load[92])
+KFOAKCKSZZZZ(124500, Load[92])
 end
 
 if Load[93] == '1' then
-LoadingSkin(223346889326592, Load[94])
+KFOAKCKSZZZZ(52002, Load[94])
 end
 
 if Load[95] == '1' then
-LoadingSkin(537729905459200, Load[96])
+KFOAKCKSZZZZ(125200, Load[96])
 end
 
 if Load[97] == '1' then
-LoadingSkin(201876347813888, Load[98])
+KFOAKCKSZZZZ(47003, Load[98])
 end
 
 if Load[99] == '1' then
-LoadingSkin(201867757879296, Load[100])
+KFOAKCKSZZZZ(47001, Load[100])
 end
 
 if Load[101] == '1' then
-LoadingSkin(537304703696896, Load[102])
+KFOAKCKSZZZZ(125101, Load[102])
 end
 
 if Load[103] == '1' then
-LoadingSkin(730170210123776, Load[104])
+KFOAKCKSZZZZ(170006, Load[104])
 end
 
 if Load[105] == '1' then
-LoadingSkin(730174505091072, Load[106])
+KFOAKCKSZZZZ(170007, Load[106])
 end
 
 if Load[107] == '1' then
-LoadingSkin(730195979927552, Load[108])
+KFOAKCKSZZZZ(170012, Load[108])
 end
 
 if Load[109] == '1' then
-LoadingSkin(730200274894848, Load[110])
+KFOAKCKSZZZZ(170013, Load[110])
 end
 
 if Load[111] == '1' then
-LoadingSkin(730208864829440, Load[112])
+KFOAKCKSZZZZ(170015, Load[112])
 end
-
-
 end
 gg.toast('ʟᴏᴀᴅᴇᴅ') 
 return CfgMainMenu()
@@ -1231,6 +1046,8 @@ return CfgMainMenu()
 end end
 
 function CfgMainMenu()
+loadslot()
+loadfile(gg.EXT_FILES_DIR .. '/.slot1.lua')
 gg.setVisible(false)
 CfgMain0 = gg.choice({
   X..'ᴀᴅᴅ ꜰᴜɴᴄᴛɪᴏɴ',
@@ -1239,140 +1056,44 @@ CfgMain0 = gg.choice({
   X..'ᴄʟᴇᴀʀ ᴄᴏɴꜰɪɢ',
   X..'ᴅᴇʟᴇᴛᴇ ᴄᴏɴꜰɪɢ',
   X..'ʙᴀᴄᴋ'
-}, nil,'ᴢᴏʟᴏᴛᴏᴠ | ᴀᴜᴛᴏ' )
+}, nil,'' )
 if CfgMain0 == nil then return gg.setVisible(false) else
 if CfgMain0 == 1 then return AddFunction() end 
 if CfgMain0 == 2 then return SaveFunction() end 
 if CfgMain0 == 3 then return LoadFunction() end 
 if CfgMain0 == 4 then return ClearFunction() end
 if CfgMain0 == 5 then return DeleteFunction() end
-if CfgMain0 == 6 then return Slots() end 
+if CfgMain0 == 6 then return os.exit() end 
 end
 end
 
 function saveslot()
-if Slot == 1 then
 file = io.open(gg.EXT_FILES_DIR .. '/.slot1.lua', 'w+')
 end
-if Slot == 2 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot2.lua', 'w+')
-end
-if Slot == 3 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot3.lua', 'w+')
-end
-if Slot == 4 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot4.lua', 'w+')
-end
-if Slot == 5 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot5.lua', 'w+')
-end
-if Slot == 6 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot6.lua', 'w+')
-end end
 
 function deleteslot()
-if Slot == 1 then
 file = gg.EXT_FILES_DIR .. '/.slot1.lua'
-end
-if Slot == 2 then
-file = gg.EXT_FILES_DIR .. '/.slot2.lua'
-end
-if Slot == 3 then
-file = gg.EXT_FILES_DIR .. '/.slot3.lua'
-end
-if Slot == 4 then
-file = gg.EXT_FILES_DIR .. '/.slot4.lua'
-end
-if Slot == 5 then
-file = gg.EXT_FILES_DIR .. '/.slot5.lua'
-end
-if Slot == 6 then 
-file = gg.EXT_FILES_DIR .. '/.slot6.lua'
-end end 
+end 
 
 function loadslot()
-if Slot == 1 then
 file = io.open(gg.EXT_FILES_DIR .. '/.slot1.lua', 'r')
 end
-if Slot == 2 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot2.lua', 'r')
-end
-if Slot == 3 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot3.lua', 'r')
-end
-if Slot == 4 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot4.lua', 'r')
-end
-if Slot == 5 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot5.lua', 'r')
-end
-if Slot == 6 then
-file = io.open(gg.EXT_FILES_DIR .. '/.slot6.lua', 'r')
-end end 
 
-function checkslots()
+
 if io.open(gg.EXT_FILES_DIR .. '/.slot1.lua', 'r') == nil then
-Slot1 = 'ɴᴜʟʟ'
+io.open(gg.EXT_FILES_DIR .. '/.slot1.lua', 'w'):write():close()
 else
 Slot1 = 'ᴄᴏɴꜰɪɢ'
 end
-if io.open(gg.EXT_FILES_DIR .. '/.slot2.lua', 'r') == nil then
-Slot2 = 'ɴᴜʟʟ'
-else
-Slot2 = 'ᴄᴏɴꜰɪɢ'
-end
-if io.open(gg.EXT_FILES_DIR .. '/.slot3.lua', 'r') == nil then
-Slot3 = 'ɴᴜʟʟ'
-else
-Slot3 = 'ᴄᴏɴꜰɪɢ'
-end
-if io.open(gg.EXT_FILES_DIR .. '/.slot4.lua', 'r') == nil then
-Slot4 = 'ɴᴜʟʟ'
-else
-Slot4 = 'ᴄᴏɴꜰɪɢ'
-end
-if io.open(gg.EXT_FILES_DIR .. '/.slot5.lua', 'r') == nil then
-Slot5 = 'ɴᴜʟʟ'
-else
-Slot5 = 'ᴄᴏɴꜰɪɢ'
-end
-if io.open(gg.EXT_FILES_DIR .. '/.slot6.lua', 'r') == nil then
-Slot6 = 'ɴᴜʟʟ'
-else
-Slot6 = 'ᴄᴏɴғɪɢ'
-end end  
 
-
-function Slots()
-checkslots()
-slot = gg.choice({
-	X..'sʟᴏᴛ 1 --> ' .. Slot1,
-	X..'sʟᴏᴛ 2 --> ' .. Slot2,
-	X..'sʟᴏᴛ 3 --> ' .. Slot3,
-	X..'sʟᴏᴛ 4 --> ' .. Slot4,
-	X..'sʟᴏᴛ 5 --> ' .. Slot5,
-	X..'sʟᴏᴛ 6 --> ' ..Slot6,
-	X..'ʙᴀᴄᴋ'
-}, nil, 'sᴇʟᴇᴄᴛ sʟᴏᴛ')
-if slot == nil then return gg.setVisible(false) else
-if slot == 1 then Slot = 1  Love = 32 CfgMainMenu() end
-if slot == 2 then Slot = 2  Love = 32 CfgMainMenu() end
-if slot == 3 then Slot = 3  Love = 32 CfgMainMenu() end
-if slot == 4 then Slot = 4  Love = 32 CfgMainMenu() end
-if slot == 5 then Slot = 5  Love = 32 CfgMainMenu() end
-if slot == 6 then Slot = 6  Love = 32 CfgMainMenu() end
-if slot == 7 then Slot = 0 os.exit() end
-end
-HOMEDM= -1
-end
-
+Slot = 1
 
 while true do
 if gg.isVisible(true) then
 HOMEDM = 1
 gg.setVisible(false)
 if HOMEDM == 1 then
-Slots()
+CfgMainMenu()
 end
 end
 end
