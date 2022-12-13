@@ -1,6 +1,6 @@
 gg.setVisible(true)
 Love = 0
-X = '『⛈️』 '
+gg.alert(N.."ᴡᴀʀɴɪɴɢ! ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴀʀᴄʜ64 (32ʙɪᴛs) sᴋɪɴs ᴍᴀʏ ᴅɪsᴀᴘᴘᴇᴀʀ ᴏʀ ᴄғɢ ʙᴜɪʟᴅᴇʀ ᴍᴀʏ ɴᴏᴛ ᴡᴏʀᴋ, ᴄᴏɴsɪᴅᴇʀ ᴜsɪɴɢ ᴀʀᴍᴠ7 ɪɴsᴛᴇᴀᴅ, ᴛʜᴀɴᴋ ʏᴏᴜ")
 R = X
 serialcounter = 0
 skincounter = 0
@@ -17,390 +17,19 @@ Installed = {'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', '�
 Load = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 Function = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 
-function StartFunction()
-if buildincfg ~= checkbuild then
-gg.sleep(1)
-else
-if Load[1] == '1' then
-KFOAKCKSZZZZ(32002, Load[2])
-end
 
-if Load[3] == '1' then
-KFOAKCKSZZZZ(32006, Load[4])
-end
-
-if Load[5] == '1' then
-KFOAKCKSZZZZ(43201, Load[6])
-end
-
-if Load[7] == '1' then
-KFOAKCKSZZZZ(123200, Load[8])
-end
-
-if Load[9] == '1' then
-KFOAKCKSZZZZ(15007, Load[10])
-end
-
-if Load[11] == '1' then
-KFOAKCKSZZZZ(15002, Load[12])
-end
-
-if Load[13] == '1' then
-KFOAKCKSZZZZ(15005, Load[14])
-end
-
-if Load[15] == '1' then
-KFOAKCKSZZZZ(170004, Load[16])
-end
-
-if Load[17] == '1' then
-KFOAKCKSZZZZ(81214, Load[18])
-end
-
-if Load[19] == '1' then
-KFOAKCKSZZZZ(81215, Load[20])
-end
-
-if Load[21] == '1' then
-KFOAKCKSZZZZ(41201, Load[22])
-end
-
-if Load[23] == '1' then
-KFOAKCKSZZZZ(46003, Load[24])
-end
-
-if Load[25] == '1' then
-KFOAKCKSZZZZ(44003, Load[26])
-end
-
-if Load[27] == '1' then
-KFOAKCKSZZZZ(44401, Load[28])
-end
-
-if Load[29] == '1' then
-KFOAKCKSZZZZ(124400, Load[30])
-end
-
-if Load[31] == '1' then
-KFOAKCKSZZZZ(11005, Load[32])
-end
-
-if Load[33] == '1' then
-KFOAKCKSZZZZ(11001, Load[34])
-end
-
-if Load[35] == '1' then
-KFOAKCKSZZZZ(81108, Load[36])
-end
-
-if Load[37] == '1' then
-KFOAKCKSZZZZ(1006, Load[38])
-end
-
-if Load[39] == '1' then
-KFOAKCKSZZZZ(121100, Load[40])
-end
-
-if Load[41] == '1' then
-KFOAKCKSZZZZ(43502, Load[42])
-end
-
-if Load[43] == '1' then
-KFOAKCKSZZZZ(35003, Load[44])
-end
-
-if Load[45] == '1' then
-KFOAKCKSZZZZ(35004, Load[46])
-end
-
-if Load[47] == '1' then
-KFOAKCKSZZZZ(35001, Load[48])
-end
-
-if Load[49] == '1' then
-KFOAKCKSZZZZ(62004, Load[50])
-end
-
-if Load[51] == '1' then
-KFOAKCKSZZZZ(62006, Load[52])
-end
-
-if Load[53] == '1' then
-KFOAKCKSZZZZ(45302, Load[54])
-end
-
-if Load[55] == '1' then
-KFOAKCKSZZZZ(62005, Load[56])
-end
-
-if Load[57] == '1' then
-KFOAKCKSZZZZ(126201, Load[58])
-end
-
-if Load[59] == '1' then
-KFOAKCKSZZZZ(62001, Load[60])
-end
-
-if Load[61] == '1' then
-KFOAKCKSZZZZ(170014, Load[62])
-end
-
-if Load[63] == '1' then
-KFOAKCKSZZZZ(84906, Load[64])
-end
-
-if Load[65] == '1' then
-KFOAKCKSZZZZ(44902, Load[66])
-end
-
-if Load[67] == '1' then
-KFOAKCKSZZZZ(81613, Load[68])
-end
-
-if Load[69] == '1' then
-KFOAKCKSZZZZ(41601, Load[70])
-end
-
-if Load[71] == '1' then
-KFOAKCKSZZZZ(13002, Load[72])
-end
-
-if Load[73] == '1' then
-KFOAKCKSZZZZ(13005, Load[74])
-end
-
-if Load[75] == '1' then
-KFOAKCKSZZZZ(81323, Load[76])
-end
-
-if Load[77] == '1' then
-KFOAKCKSZZZZ(86317, Load[78])
-end
-
-if Load[79] == '1' then
-KFOAKCKSZZZZ(126300, Load[80])
-end
-
-if Load[81] == '1' then
-KFOAKCKSZZZZ(43401, Load[82])
-end
-
-if Load[83] == '1' then
-KFOAKCKSZZZZ(170016, Load[84])
-end
-
-if Load[85] == '1' then
-KFOAKCKSZZZZ(45004, Load[86])
-end
-
-if Load[87] == '1' then
-KFOAKCKSZZZZ(45003, Load[88])
-end
-
-if Load[89] == '1' then
-KFOAKCKSZZZZ(84501, Load[90])
-end
-
-if Load[91] == '1' then
-KFOAKCKSZZZZ(124500, Load[92])
-end
-
-if Load[93] == '1' then
-KFOAKCKSZZZZ(52002, Load[94])
-end
-
-if Load[95] == '1' then
-KFOAKCKSZZZZ(125200, Load[96])
-end
-
-if Load[97] == '1' then
-KFOAKCKSZZZZ(47003, Load[98])
-end
-
-if Load[99] == '1' then
-KFOAKCKSZZZZ(47001, Load[100])
-end
-
-if Load[101] == '1' then
-KFOAKCKSZZZZ(125101, Load[102])
-end
-
-if Load[103] == '1' then
-KFOAKCKSZZZZ(170006, Load[104])
-end
-
-if Load[105] == '1' then
-KFOAKCKSZZZZ(170007, Load[106])
-end
-
-if Load[107] == '1' then
-KFOAKCKSZZZZ(170012, Load[108])
-end
-
-if Load[109] == '1' then
-KFOAKCKSZZZZ(170013, Load[110])
-end
-
-if Load[111] == '1' then
-KFOAKCKSZZZZ(170015, Load[112])
-end
-end
-gg.toast('ʟᴏᴀᴅᴇᴅ') 
-return CfgMainMenu()
-end
-
-function LoadFunction()
-Load = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
-loadslot()
-buildincfg = file:read('*line')
-Load[1] = file:read('*line')
-Load[2] = file:read('*line')
-Load[3] = file:read('*line')
-Load[4] = file:read('*line')
-Load[5] = file:read('*line')
-Load[6] = file:read('*line')
-Load[7] = file:read('*line')
-Load[8] = file:read('*line')
-Load[9] = file:read('*line')
-Load[10] = file:read('*line')
-Load[11] = file:read('*line')
-Load[12] = file:read('*line')
-Load[13] = file:read('*line')
-Load[14] = file:read('*line')
-Load[15] = file:read('*line')
-Load[16] = file:read('*line')
-Load[17] = file:read('*line')
-Load[18] = file:read('*line')
-Load[19] = file:read('*line')
-Load[20] = file:read('*line')
-Load[21] = file:read('*line')
-Load[22] = file:read('*line')
-Load[23] = file:read('*line')
-Load[24] = file:read('*line')
-Load[25] = file:read('*line')
-Load[26] = file:read('*line')
-Load[27] = file:read('*line')
-Load[28] = file:read('*line')
-Load[29] = file:read('*line')
-Load[30] = file:read('*line')
-Load[31] = file:read('*line')
-Load[32] = file:read('*line')
-Load[33] = file:read('*line')
-Load[34] = file:read('*line')
-Load[35] = file:read('*line')
-Load[36] = file:read('*line')
-Load[37] = file:read('*line')
-Load[38] = file:read('*line')
-Load[39] = file:read('*line')
-Load[40] = file:read('*line')
-Load[41] = file:read('*line')
-Load[42] = file:read('*line')
-Load[43] = file:read('*line')
-Load[44] = file:read('*line')
-Load[45] = file:read('*line')
-Load[46] = file:read('*line')
-Load[47] = file:read('*line')
-Load[48] = file:read('*line')
-Load[49] = file:read('*line')
-Load[50] = file:read('*line')
-Load[51] = file:read('*line')
-Load[52] = file:read('*line')
-Load[53] = file:read('*line')
-Load[54] = file:read('*line')
-Load[55] = file:read('*line')
-Load[56] = file:read('*line')
-Load[57] = file:read('*line')
-Load[58] = file:read('*line')
-Load[59] = file:read('*line')
-Load[60] = file:read('*line')
-Load[61] = file:read('*line')
-Load[62] = file:read('*line')
-Load[63] = file:read('*line')
-Load[64] = file:read('*line')
-Load[65] = file:read('*line')
-Load[66] = file:read('*line')
-Load[67] = file:read('*line')
-Load[68] = file:read('*line')
-Load[69] = file:read('*line')
-Load[70] = file:read('*line')
-Load[71] = file:read('*line')
-Load[72] = file:read('*line')
-Load[73] = file:read('*line')
-Load[74] = file:read('*line')
-Load[75] = file:read('*line')
-Load[76] = file:read('*line')
-Load[77] = file:read('*line')
-Load[78] = file:read('*line')
-Load[79] = file:read('*line')
-Load[80] = file:read('*line')
-Load[81] = file:read('*line')
-Load[82] = file:read('*line')
-Load[83] = file:read('*line')
-Load[84] = file:read('*line')
-Load[85] = file:read('*line')
-Load[86] = file:read('*line')
-Load[87] = file:read('*line')
-Load[88] = file:read('*line')
-Load[89] = file:read('*line')
-Load[90] = file:read('*line')
-Load[91] = file:read('*line')
-Load[92] = file:read('*line')
-Load[93] = file:read('*line')
-Load[94] = file:read('*line')
-Load[95] = file:read('*line')
-Load[96] = file:read('*line')
-Load[97] = file:read('*line')
-Load[98] = file:read('*line')
-Load[99] = file:read('*line')
-Load[100] = file:read('*line')
-Load[101] = file:read('*line')
-Load[102] = file:read('*line')
-Load[103] = file:read('*line')
-Load[104] = file:read('*line')
-Load[105] = file:read('*line')
-Load[106] = file:read('*line')
-Load[107] = file:read('*line')
-Load[108] = file:read('*line')
-Load[109] = file:read('*line')
-Load[110] = file:read('*line')
-Load[111] = file:read('*line')
-Load[112] = file:read('*line')
-Load[113] = file:read('*line')
-Load[114] = file:read('*line')
-file:close()
-return StartFunction()
-end
-
-function SaveFunction()
-
-part1 = checkbuild .. '\n' .. Function[1] .. '\n' .. Function[2] .. '\n' .. Function[3] .. '\n'
- .. Function[4] .. '\n' .. Function[5] .. '\n' .. Function[6] .. '\n' .. Function[7] .. '\n' .. Function[8]
-  .. '\n' .. Function[9] .. '\n' .. Function[10] .. '\n' .. Function[11] .. '\n' .. Function[12] .. '\n' .. Function[13]
-   .. '\n' .. Function[14] .. '\n' .. Function[15] .. '\n' .. Function[16] .. '\n' .. Function[17] .. '\n' .. Function[18]
-    .. '\n' .. Function[19] .. '\n' .. Function[20] .. '\n' .. Function[21] .. '\n' .. Function[22] .. '\n' .. Function[23]    
-part2 = '\n' .. Function[24] .. '\n' .. Function[25] .. '\n' .. Function[26] .. '\n' .. Function[27] .. '\n' .. Function[28]
-      .. '\n' .. Function[29] .. '\n' .. Function[30] .. '\n' .. Function[31] .. '\n' .. Function[32] .. '\n' .. Function[33]
-       .. '\n' .. Function[34] .. '\n' .. Function[35] .. '\n' .. Function[36] .. '\n' .. Function[37] .. '\n' .. Function[38].. '\n' .. Function[39] .. '\n' .. Function[40] .. '\n' .. Function[41] .. '\n' .. Function[42] .. '\n' .. Function[43] .. '\n' .. Function[44] .. '\n' .. Function[45] .. '\n' .. Function[46] .. '\n' .. Function[47] .. '\n' .. Function[48]  .. '\n' .. Function[49] .. '\n' .. Function[50] .. '\n' .. Function[51] .. '\n' .. Function[52] .. '\n' .. Function[53]   .. '\n' .. Function[54] .. '\n' .. Function[55] .. '\n' .. Function[56] .. '\n' .. Function[57] .. '\n' .. Function[58]    .. '\n' .. Function[59] .. '\n' .. Function[60] .. '\n' .. Function[61] .. '\n' .. Function[62] .. '\n' .. Function[63]     .. '\n' .. Function[64] .. '\n' .. Function[65] .. '\n' .. Function[66] .. '\n' .. Function[67] .. '\n' .. Function[68]      .. '\n' .. Function[69] .. '\n' .. Function[70] .. '\n' .. Function[71] .. '\n' .. Function[72] .. '\n' .. Function[73]       .. '\n' .. Function[74] .. '\n' .. Function[75] .. '\n'
-part3 = Function[76] .. '\n' .. Function[77] .. '\n' .. Function[78]        .. '\n' .. Function[79] .. '\n' .. Function[80] .. '\n' .. Function[81] .. '\n' .. Function[82] .. '\n' .. Function[83] .. '\n' .. Function[84] .. '\n' .. Function[85] .. '\n' .. Function[86] .. '\n' .. Function[87] .. '\n' .. Function[88]  .. '\n' .. Function[89] .. '\n' .. Function[90] .. '\n' .. Function[91] .. '\n' .. Function[92] .. '\n' .. Function[93]   .. '\n' .. Function[94] .. '\n' .. Function[95] .. '\n' .. Function[96] .. '\n' .. Function[97] .. '\n' .. Function[98]    .. '\n' .. Function[99] .. '\n' .. Function[100] .. '\n' .. Function[101] .. '\n' .. Function[102] .. '\n' .. Function[103]   .. '\n' .. Function[104] .. '\n' .. Function[105] .. '\n' .. Function[106] .. '\n' .. Function[107] .. '\n' .. Function[108]      .. '\n' .. Function[109] .. '\n' .. Function[110] .. '\n' .. Function[111] .. '\n' .. Function[112] .. '\n' .. Function[113]  .. '\n'.. Function[114]  .. '\n' .. endprint
-gg.setVisible(false)
-saveslot()
-file:write(part1..part2..part3)
-file:close()
-gg.toast('sᴀᴠᴇᴅ')
-return CfgMainMenu()
-end 
 
 function Save()
 gg.setVisible(false)
 Installed[serialcounter0] = ChoiceSkin[2]
 Function[serialcounter+1] = ChoiceSkin[1]
 skincounter = skincounter+1
-gg.toast('ᴀᴅᴅᴇᴅ')
+gg.toast(X..'ᴀᴅᴅᴇᴅ')
 return CfgMainMenu()
 end
 
 function StattrackCheck()
-StattrackMainMenu0 = gg.choice({'sᴛᴀᴛᴛʀᴀᴄᴋ','ᴄᴏᴍᴍᴏɴ'},nil,'')
+StattrackMainMenu0 = gg.choice({X..'sᴛᴀᴛᴛʀᴀᴄᴋ',X..'ᴄᴏᴍᴍᴏɴ'},nil,'')
 if StattrackMainMenu0 == nil then return gg.setVisible(false) else
 if StattrackMainMenu0 == 1 then ChoiceSkin[1] = ChoiceSkin[1]+1000000 return Save() end
 if StattrackMainMenu0 == 2 then return Save() end
@@ -558,7 +187,7 @@ X..'ᴍᴘ5 ʀᴇᴀᴄᴛᴏʀ',
 X..'ᴍᴘ5 ᴘʀᴏᴊᴇᴄᴛ ᴢ9',
 X..'ᴍᴘ5 ɴᴏʀʜᴛᴇʀɴꜰᴜʀʏ',
 X..'ʙᴀᴄᴋ'
-}, nil, 'ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴡᴇᴀᴘᴏɴ' )
+}, nil, X..'ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴡᴇᴀᴘᴏɴ' )
 if WeaponMainMenu0 == nil then return gg.setVisible(false) else
 if WeaponMainMenu0 == 1 then ChoiceSkin[1] = 51007 ChoiceSkin[2] ='ᴀᴡᴍ ɢᴇɴᴇsɪs' StattrackCheck() end
 if WeaponMainMenu0 == 2 then ChoiceSkin[1] = 125100 ChoiceSkin[2] ='ᴀᴡᴍ ʙᴏᴏᴍ' StattrackCheck() end
@@ -723,10 +352,10 @@ X..'ɢʟᴏᴠᴇs ɴᴇᴜʀᴏ',
 X..'ɢʟᴏᴠᴇs ᴘᴜɴᴋ',
 X..'ɢʟᴏᴠᴇs ʙᴜʀɴɪɴɢꜰɪsᴛs', 
 X..'ɢʟᴏᴠᴇs ᴄʜᴀᴍᴘɪᴏɴ', 
-X..'ɢʟᴏᴠᴇs sᴛᴇᴀᴍʀɪᴅᴇ',
+X..'ɢʟᴏᴠᴇs sᴛᴇᴀᴍʀɪᴅᴇʀ',
 X..'ɢʟᴏᴠᴇs ʏᴇᴀʀ ᴏꜰ ᴛʜᴇ ᴛɪɢᴇʀ',  
 X..'ʙᴀᴄᴋ'
-}, nil, 'ᴄʜᴏᴏsᴇ ᴛʜᴇ ɢʟᴏᴠᴇs' )
+}, nil, X..'ᴄʜᴏᴏsᴇ ᴛʜᴇ ɢʟᴏᴠᴇs' )
 if GlovesMainMenu0 == nil then return gg.setVisible(false) else
 if GlovesMainMenu0 == 1 then ChoiceSkin[1] = 3000 ChoiceSkin[2] ='ɢʟᴏᴠᴇs ᴘʜᴏᴇɴɪx' Save() end
 if GlovesMainMenu0 == 2 then ChoiceSkin[1] = 3001 ChoiceSkin[2] ='ɢʟᴏᴠᴇs ᴀᴜᴛᴜᴍɴ' Save() end
@@ -765,14 +394,14 @@ X..'sᴄᴏʀᴘɪᴏɴ sᴛᴀʀꜰᴀʟʟ',
 X..'sᴄᴏʀᴘɪᴏɴ sᴄʀᴀᴛᴄʜ',
 X..'sᴄᴏʀᴘɪᴏɴ ᴠᴇɪʟ',
 X..'sᴄᴏʀᴘɪᴏɴ sᴇᴀ ᴇʏᴇ',
-X..'sᴄᴏʀᴘɪᴏɴ ᴄᴏʟᴅꜰʀᴀᴍ',
+X..'sᴄᴏʀᴘɪᴏɴ ᴄᴏʟᴅ ғʟᴀᴍᴇ',
 X..'sᴄᴏʀᴘɪᴏɴ ʜᴏʟɪᴅᴀʏ ꜰʀᴏsᴛ',
 X..'ʙᴜᴛᴛᴇʀꜰʟʏ sᴛᴀʀꜰᴀʟʟ',
 X..'ʙᴜᴛᴛᴇʀꜰʟʏ ʟᴇɢᴀᴄʏ',
 X..'ʙᴜᴛᴛᴇʀꜰʟʏ ʙʟᴀᴄᴋ ᴡɪᴅᴏᴡ',
 X..'ʙᴜᴛᴛᴇʀꜰʟʏ ᴅʀᴀɢᴏɴ ɢʟᴀss',
 X..'ʙᴜᴛᴛᴇʀꜰʟʏ ꜰɪʀᴇ sᴛᴏʀᴍ',
-X..'ʙᴜᴛᴛᴇʀꜰʟʏ ᴄᴏʟᴅꜰʀᴀᴍ',
+X..'ʙᴜᴛᴛᴇʀꜰʟʏ ᴄᴏʟᴅ ғʟᴀᴍᴇ',
 X..'ʙᴜᴛᴛᴇʀꜰʟʏ ᴋᴜᴍᴏ',
 X..'ᴋᴜɴᴀɪ ʟᴜxᴜʀʏ',
 X..'ᴋᴜɴᴀɪ ʙᴏɴᴇ',
@@ -781,13 +410,13 @@ X..'ᴋᴜɴᴀɪ ʀᴀᴅɪᴀᴛɪᴏɴ',
 X..'ᴋᴜɴᴀɪ ʀᴇᴀᴘᴇʀ',
 X..'ᴋᴜɴᴀɪ ᴄᴏʟᴅꜰʀᴀᴍ',
 X..'ᴋᴜɴᴀɪ sʜᴏᴡᴄᴀᴍᴏ',
-X..'ᴋᴜɴᴀɪ ᴀɢᴜsᴛɪᴛɪ',
+X..'ᴋᴜɴᴀɪ ᴀᴜɢᴜsᴛɪ',
 X..'ᴋᴀʀᴀᴍʙɪᴛ ɢᴏʟᴅ',
 X..'ᴋᴀʀᴀᴍʙɪᴛ ᴄʟᴀᴡ',
 X..'ᴋᴀʀᴀᴍʙɪᴛ ᴅʀᴀɢᴏɴ ɢʟᴀss',
 X..'ᴋᴀʀᴀᴍʙɪᴛ sᴄʀᴀᴛᴄʜ',
 X..'ᴋᴀʀᴀᴍʙɪᴛ ᴜɴɪᴠᴇʀsᴇ',
-X..'ᴋᴀʀᴀᴍʙɪᴛ ᴄᴏʟᴅꜰʀᴀᴍ',
+X..'ᴋᴀʀᴀᴍʙɪᴛ ᴄᴏʟᴅ ғʟᴀᴍᴇ',
 X..'ᴋᴀʀᴀᴍʙɪᴛ ꜰʀᴏᴢᴇɴ',
 X..'ᴋᴀʀᴀᴍʙɪᴛ sʜᴏᴡᴄᴀᴍᴏ',
 X..'ᴋᴀʀᴀᴍʙɪᴛ ʏᴇᴀʀ ᴏꜰ ᴛʜᴇ ᴛɪɢᴇʀ',
@@ -803,14 +432,14 @@ X..'ᴊᴋᴏᴍᴍᴀɴᴅᴏ ʀᴇᴀᴘᴇʀ',
 X..'ᴊᴋᴏᴍᴍᴀɴᴅᴏ ꜰʟᴏʀᴀʟ',
 X..'ᴊᴋᴏᴍᴍᴀɴᴅᴏ ʟᴜxᴜʀʏ',
 X..'ᴊᴋᴏᴍᴍᴀɴᴅᴏ ꜰʀᴏᴢᴇɴ',
-X..'ᴊᴋᴏᴍᴍᴀɴᴅᴏ ᴀɢᴜsᴛɪᴛɪ',
+X..'ᴊᴋᴏᴍᴍᴀɴᴅᴏ ᴀᴜɢᴜsᴛɪ',
 X..'ᴅᴀɢɢᴇʀs ᴀᴄɪᴅ',
 X..'ᴅᴀɢɢᴇʀs ᴅᴇᴍᴏɴɪᴄ sᴛᴇᴇʟ',
 X..'ᴅᴀɢɢᴇʀs ɢʀᴜɴɢᴇ',
 X..'ᴅᴀɢɢᴇʀs ᴍᴏʟᴛᴇɴ',
 X..'ᴅᴀɢɢᴇʀs ʜᴀʀᴍᴏɴʏ',
 X..'ʙᴀᴄᴋ'
-}, nil, 'ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴋɴɪꜰᴇ' )
+}, nil, X..'ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴋɴɪꜰᴇ' )
 if KnifeMainMenu0 == nil then return gg.setVisible(false) else
 if KnifeMainMenu0 == 1 then ChoiceSkin[1] = 138000 ChoiceSkin[2] ='ᴋɴɪꜰᴇᴛᴀɴᴛᴏ ᴅᴏᴊᴏ' Save() end
 if KnifeMainMenu0 == 2 then ChoiceSkin[1] = 138001 ChoiceSkin[2] ='ᴋɴɪꜰᴇᴛᴀɴᴛᴏ ᴍᴀꜰɪᴀ' Save() end
@@ -885,8 +514,8 @@ ChoiceMainMenu0 = gg.choice({
 X..'ᴋɴɪꜰᴇ',
 X..'ᴡᴇᴀᴘᴏɴ',
 X..'ɢʟᴏᴠᴇs',
-'↩ ʙᴀᴄᴋ'
-}, nil, 'ᴄʜᴏᴏsᴇ ᴛʜᴇ sᴋɪɴ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇᴛ' )
+X..'ʙᴀᴄᴋ'
+}, nil, X.. 'ᴄʜᴏᴏsᴇ ᴛʜᴇ sᴋɪɴ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇᴛ' )
 if ChoiceMainMenu0 == nil then return gg.setVisible(false) else
 if ChoiceMainMenu0 == 1 then return ChoiceKnife() end
 if ChoiceMainMenu0 == 2 then return ChoiceWeapon() end
@@ -955,7 +584,7 @@ R..'ᴍ60 ᴛᴜʀʀᴇᴛ\n'..Installed[54],
 R..'ᴍ110 ᴘᴜʀsᴜɪᴛ\n'..Installed[55],
 R..'ᴍᴘ5 ᴅᴜsᴋ\n'..Installed[56],
 R..'ʙᴀᴄᴋ'
-}, nil, 'ᴄᴜʀʀᴇɴᴛʟʏ ɪɴsᴛᴀʟʟᴇᴅ ' .. skincounter .. ' sᴋɪɴs' )
+}, nil,X.. 'ᴄᴜʀʀᴇɴᴛʟʏ ɪɴsᴛᴀʟʟᴇᴅ ' .. skincounter .. ' sᴋɪɴs' )
 if AddMainMenu0 == nil then return gg.setVisible(false) else
 if AddMainMenu0 == 1 then Function[1] = 1 serialcounter = 1 serialcounter0 = 1 SkinChoice() end
 if AddMainMenu0 == 2 then Function[3] = 1 serialcounter = 3 serialcounter0 = 2 SkinChoice() end
@@ -1029,59 +658,50 @@ Installed = {'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', '�
 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ', 'ɴᴜʟʟ',}
 Load = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 Function = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+os.remove(gg.CACHE_DIR.."/savedskins.cfg")
+file2 = gg.CACHE_DIR.."/appliedskins.cfg"
+if file2 == nil then else
+files = io.open(file2, "w+")
+files:write(Installed[1] .. '\n' .. Installed[2] .. '\n' .. Installed[3] .. '\n'
+ .. Installed[4] .. '\n' .. Installed[5] .. '\n' .. Installed[6] .. '\n' .. Installed[7] .. '\n' .. Installed[8]
+  .. '\n' .. Installed[9] .. '\n' .. Installed[10] .. '\n' .. Installed[11] .. '\n' .. Installed[12] .. '\n' .. Installed[13]
+   .. '\n' .. Installed[14] .. '\n' .. Installed[15] .. '\n' .. Installed[16] .. '\n' .. Installed[17] .. '\n' .. Installed[18]
+    .. '\n' .. Installed[19] .. '\n' .. Installed[20] .. '\n' .. Installed[21] .. '\n' .. Installed[22] .. '\n' .. Installed[23]  .. '\n' .. Installed[24] .. '\n' .. Installed[25] .. '\n' .. Installed[26] .. '\n' .. Installed[27] .. '\n' .. Installed[28]
+      .. '\n' .. Installed[29] .. '\n' .. Installed[30] .. '\n' .. Installed[31] .. '\n' .. Installed[32] .. '\n' .. Installed[33]
+       .. '\n' .. Installed[34] .. '\n' .. Installed[35] .. '\n' .. Installed[36] .. '\n' .. Installed[37] .. '\n' .. Installed[38].. '\n' .. Installed[39] .. '\n' .. Installed[40] .. '\n' .. Installed[41] .. '\n' .. Installed[42] .. '\n' .. Installed[43] .. '\n' .. Installed[44] .. '\n' .. Installed[45] .. '\n' .. Installed[46] .. '\n' .. Installed[47] .. '\n' .. Installed[48]  .. '\n' .. Installed[49] .. '\n' .. Installed[50] .. '\n' .. Installed[51] .. '\n' .. Installed[52] .. '\n' .. Installed[53]   .. '\n' .. Installed[54] .. '\n' .. Installed[55] .. '\n' .. Installed[56] .. '\n' .. Installed[57])
+files:close()
+end
 gg.toast('ᴄᴏɴꜰɪɢ ʟɪsᴛ ᴄʟᴇᴀʀᴇᴅ sᴜᴄᴄᴇssꜰᴜʟʟʏ!')
 return CfgMainMenu()
 end
 
-function DeleteFunction() 
-gg.setVisible(false)
-deleteslot()
-delete = os.remove(file)
-if not delete then
-gg.toast('ᴄᴏɴꜰɪɢ ᴡᴀs ɴᴏᴛ ᴄʀᴇᴀᴛᴇᴅ!')
-return CfgMainMenu()
-else
-gg.toast('ᴄᴏɴꜰɪɢ ᴅᴇʟᴇᴛᴇᴅ sᴜᴄᴄᴇssꜰᴜʟʟʏ!')
-return CfgMainMenu()
-end end
-
 function CfgMainMenu()
 loadslot()
-loadfile(gg.EXT_FILES_DIR .. '/.slot1.lua')
+loadfile('/sdcard/#CFG_Config.lua')
 gg.setVisible(false)
 CfgMain0 = gg.choice({
-  X..'ᴀᴅᴅ ꜰᴜɴᴄᴛɪᴏɴ',
+  X..'ᴍᴀɴᴀɢᴇ sᴋɪɴs',
   X..'sᴀᴠᴇ ɪɴ ᴄᴏɴꜰɪɢ',
   X..'ʟᴏᴀᴅ ɪɴ ɢᴀᴍᴇ',
   X..'ᴄʟᴇᴀʀ ᴄᴏɴꜰɪɢ',
-  X..'ᴅᴇʟᴇᴛᴇ ᴄᴏɴꜰɪɢ',
-  X..'ʙᴀᴄᴋ'
-}, nil,'' )
+  X..'ᴇxɪᴛ'
+}, nil,X..'ᴄғɢ ʙᴜɪʟᴅᴇʀ' )
 if CfgMain0 == nil then return gg.setVisible(false) else
 if CfgMain0 == 1 then return AddFunction() end 
 if CfgMain0 == 2 then return SaveFunction() end 
 if CfgMain0 == 3 then return LoadFunction() end 
 if CfgMain0 == 4 then return ClearFunction() end
-if CfgMain0 == 5 then return DeleteFunction() end
-if CfgMain0 == 6 then return os.exit() end 
+if CfgMain0 == 5 then return os.exit() end 
 end
 end
 
-function saveslot()
-file = io.open(gg.EXT_FILES_DIR .. '/.slot1.lua', 'w+')
-end
-
-function deleteslot()
-file = gg.EXT_FILES_DIR .. '/.slot1.lua'
-end 
-
-function loadslot()
-file = io.open(gg.EXT_FILES_DIR .. '/.slot1.lua', 'r')
+if io.open('/sdcard/#CFG_Config.lua', 'r') ~= nil then
+undump()
 end
 
 
-if io.open(gg.EXT_FILES_DIR .. '/.slot1.lua', 'r') == nil then
-io.open(gg.EXT_FILES_DIR .. '/.slot1.lua', 'w'):write():close()
+if io.open('/sdcard/#CFG_Config.lua', 'r') == nil then
+io.open('/sdcard/#CFG_Config.lua', 'w'):write():close()
 else
 Slot1 = 'ᴄᴏɴꜰɪɢ'
 end
